@@ -1,0 +1,1 @@
+window.YIELDNEST_CONFIG={brand:"YieldNest",tagline:"Secure today. Funded tomorrow.",mode:"demo",currency:"BDT",apiBaseUrl:"",features:{auth:true,admin:true,payments:false,kyc:false,auditLogs:true}};
